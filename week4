@@ -1,0 +1,25 @@
+Part 1)
+Title : System recomender for Restaurant in Madrid
+
+Problem background :
+Madrid is the capital of Spain. It's have got 6.64 million persons.
+
+How is the capital of Spain also have got a lot of restaurants, and all with a great variety of food types.
+
+Problem description :
+Food can also attract people around to world to try it out if it were to be the best. In such scenarios, we need to find the right place, at reasonable cost, to serve us the best possible way. So there are few questions that must be addresed, such as :
+
+- Many types of foods in the restaurant
+- The best rating restaurant is near
+
+
+Expectations from this recommender system is to get answer for the questions, and in such a way that it uncovers all the perspective of managing recommendations. It is sighted to show :
+- Types of restaurants is near of our
+- the similar restaurants that the same type of food
+
+Target audience :
+Target audiences for this project does not limit to a person who keeps travelling but everyone. People could simply decide to look for a similar restaurant all the time because they are addicted to a specific category of food. 
+
+Success rate :
+With restaurants evolving, new food categories emerge, hybrid food starts to be more popular, we need a system that could help us access vast number of food varieties. 
+On the other hand, Computers are good at remembering things, and with Machine learning to its peak, it high time technology will by our personal guidence and help us personally based on our likes and dislikes. 
